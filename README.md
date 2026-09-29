@@ -34,29 +34,18 @@ Senior Data and Analytics Engineer with over 10 years of experience in tech, ope
 
 ---
 
-## 📂 Project Case Studies & Overviews
+## 📂 Project Case Studies
 
-Below is a breakdown of key technical initiatives, architectural contributions, and impact across my roles:
+Shareable write-ups only: problem, architecture, decisions, and outcome. Internal evidence stays in private notes.
 
-### 1. [ASAAS] Data Governance & CI/CD Standards
-* **Role:** Analytics Engineer - Tech Lead (06/2026 – 09/2026)
-* **Focus:** Data Architecture, Governance, CI/CD, Mentorship
-* **Overview:** Defined data modeling, automated testing, and CI/CD pipelines to ensure end-to-end data product reliability. Spearheaded team enablement in software engineering principles and AI literacy.
+| Case | Role | Period |
+| :--- | :--- | :--- |
+| [ASAAS — Data governance and CI/CD](cases/asaas-governanca-cicd.md) | Analytics Engineer, Tech Lead | 06/2026 – 09/2026 |
+| [Conta Simples — Financial reconciliation](cases/conta-simples-reconciliacao.md) | Senior Data Engineer | 05/2025 – 05/2026 |
+| [Stone — dbt and Databricks migration](cases/stone-migracao-dbt-databricks.md) | Analytics Engineer, Tech Lead | 01/2022 – 05/2025 |
+| [Rappi — Snowflake BI and operations](cases/rappi-snowflake-bi.md) | Data & Governance Analyst / BI Analyst | 10/2020 – 01/2022 |
 
-### 2. [Conta Simples] AWS Financial Reconciliation Pipelines
-* **Role:** Senior Data Engineer (05/2025 – 05/2026)
-* **Tech Stack:** `AWS` `Apache Airflow` `Python` `SQL` `SFTP` `Gzip`
-* **Overview:** Designed automated batch data pipelines and financial reconciliation workflows. Managed ingestion from secure SFTP partners handling compressed datasets, implementing CloudWatch and EventBridge monitoring for robust restartability and resilience.
-
-### 3. [Stone Co] Platform Modernization Strategy (dbt & Databricks)
-* **Role:** Analytics Engineer - Tech Lead (01/2022 – 05/2025)
-* **Tech Stack:** `Apache Airflow` `SQL` `Dataform` `BigQuery` `dbt` `Databricks`
-* **Overview:** Led technical planning for migrating customer service data products from BigQuery/Dataform to dbt and Databricks. Mapped complex datasets, estimated refactoring effort, and established unified modeling standards.
-
-### 4. [Rappi] Snowflake BI & Operations Analytics
-* **Role:** Data & Governance Analyst / BI Analyst (10/2020 – 01/2022)
-* **Tech Stack:** `Snowflake` `SQL` `Metabase` `Periscope` `Power BI`
-* **Overview:** Built complex analytical SQL models in Snowflake to support Fraud and Delivery Management squads. Curated communication databases and structured operational dashboards.
+A new case starts from [`cases/_template.md`](cases/_template.md). Diagrams live in the case as Mermaid. Put a PNG in [`diagrams/`](diagrams/README.md) only when Mermaid is not enough.
 
 ---
 
