@@ -54,6 +54,21 @@ Senior Data and Analytics Engineer with over 10 years of experience in tech, ope
 
 ---
 
+## 📂 Project Case Studies
+
+Shareable write-ups only: problem, architecture, decisions, and outcome. Internal evidence stays in private notes.
+
+| Case | Role | Period |
+| :--- | :--- | :--- |
+| [ASAAS — Data governance and CI/CD](cases/asaas-governanca-cicd.md) | Analytics Engineer, Tech Lead | 06/2026 – 09/2026 |
+| [Conta Simples — Financial reconciliation](cases/conta-simples-reconciliacao.md) | Senior Data Engineer | 05/2025 – 05/2026 |
+| [Stone — dbt and Databricks migration](cases/stone-migracao-dbt-databricks.md) | Analytics Engineer, Tech Lead | 01/2022 – 05/2025 |
+| [Rappi — Snowflake BI and operations](cases/rappi-snowflake-bi.md) | Data & Governance Analyst / BI Analyst | 10/2020 – 01/2022 |
+
+A new case starts from [`cases/_template.md`](cases/_template.md). Diagrams live in the case as Mermaid. Put a PNG in [`diagrams/`](diagrams/README.md) only when Mermaid is not enough.
+
+---
+
 ## 🎯 Specific challenges
 
 Short, self-contained challenges in [code-challenges](https://github.com/beatrizbisol/code-challenges), in two tracks:
