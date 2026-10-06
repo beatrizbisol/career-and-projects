@@ -34,29 +34,13 @@ Senior Data and Analytics Engineer with over 10 years of experience in tech, ope
 
 ---
 
-## 📂 Project Case Studies
+## 🎓 Education & Certifications
 
-Shareable write-ups only: problem, architecture, decisions, and outcome. Internal evidence stays in private notes.
-
-| Case | Role | Period |
-| :--- | :--- | :--- |
-| [ASAAS — Data governance and CI/CD](cases/asaas-governanca-cicd.md) | Analytics Engineer, Tech Lead | 06/2026 – 09/2026 |
-| [Conta Simples — Financial reconciliation](cases/conta-simples-reconciliacao.md) | Senior Data Engineer | 05/2025 – 05/2026 |
-| [Stone — dbt and Databricks migration](cases/stone-migracao-dbt-databricks.md) | Analytics Engineer, Tech Lead | 01/2022 – 05/2025 |
-| [Rappi — Snowflake BI and operations](cases/rappi-snowflake-bi.md) | Data & Governance Analyst / BI Analyst | 10/2020 – 01/2022 |
-
-A new case starts from [`cases/_template.md`](cases/_template.md). Diagrams live in the case as Mermaid. Put a PNG in [`diagrams/`](diagrams/README.md) only when Mermaid is not enough.
-
----
-
-## 🎯 Selection process
-
-Practice material in [code-challenges](https://github.com/beatrizbisol/code-challenges), in two tracks:
-
-| Track | What it holds |
-| :--- | :--- |
-| Live coding | The prompt, the code from the session, and an improved version |
-| Scenarios | A situation, the interviewer's question, and the answer I give |
+* **Pós-Tech in AI Agents** — FIAP *(In progress)*
+* **MBA in Finance** — Ibmec
+* **Specialization in Data Science** — UNI7
+* **B.S. in Mechanical Production Engineering** — UFC *(Exchange via Science Without Borders - Budapest)*
+* **Languages:** Portuguese (Native), English (C1 Advanced - TOEFL ITP 493), Spanish (A2), French (A1)
 
 ---
 
@@ -70,10 +54,11 @@ Practice material in [code-challenges](https://github.com/beatrizbisol/code-chal
 
 ---
 
-## 🎓 Education & Certifications
+## 🎯 Specific challenges
 
-* **Pós-Tech in AI Agents** — FIAP *(In progress)*
-* **MBA in Finance** — Ibmec
-* **Specialization in Data Science** — UNI7
-* **B.S. in Mechanical Production Engineering** — UFC *(Exchange via Science Without Borders - Budapest)*
-* **Languages:** Portuguese (Native), English (C1 Advanced - TOEFL ITP 493), Spanish (A2), French (A1)
+Short, self-contained challenges in [code-challenges](https://github.com/beatrizbisol/code-challenges), in two tracks:
+
+| Track | What it holds |
+| :--- | :--- |
+| Live coding | The prompt, the code from the session, and an improved version |
+| Scenarios | A situation, the question, and the answer I give |
