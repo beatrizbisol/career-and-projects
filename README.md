@@ -49,6 +49,17 @@ A new case starts from [`cases/_template.md`](cases/_template.md). Diagrams live
 
 ---
 
+## 🎯 Selection process
+
+Practice material in [code-challenges](https://github.com/beatrizbisol/code-challenges), in two tracks:
+
+| Track | What it holds |
+| :--- | :--- |
+| Live coding | The prompt, the code from the session, and an improved version |
+| Scenarios | A situation, the interviewer's question, and the answer I give |
+
+---
+
 ## 💼 Work History
 
 * **ASAAS** — *Analytics Engineer - Tech Lead* `[06/2026 – 09/2026]`
